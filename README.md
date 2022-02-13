@@ -1,4 +1,4 @@
-### push_swap (quick sort)
+## push_swap (quick sort) 125%
 
 ### Основная часть
 
